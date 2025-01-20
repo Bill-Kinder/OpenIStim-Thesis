@@ -2,7 +2,7 @@
 
 ## Background
 
-This repository contains the code developed for my Honours thesis at The University of Sydney. It uses code developed by Dr. Monzurul Alam for the spinal pulse signal, and adds wireless communications and a GUI. The stimulator was implemented using Arduino and the GUI was designed in Python.
+This repository contains the code developed for my Honours thesis at The University of Sydney. It inherits code developed by Dr. Monzurul Alam for the spinal pulse signal, and adds wireless communications and a GUI. The stimulator was implemented using Arduino and the GUI was designed in Python.
 
 ## Thesis - Remotely-Controlled Spinal Cord Stimulation via Message Query Telemetry Transport
 
