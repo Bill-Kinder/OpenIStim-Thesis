@@ -2,7 +2,7 @@
 
 ## Background
 
-This repository contains the code developed for my Honours thesis at The University of Sydney. It inherits code developed by Dr. Monzurul Alam for the spinal pulse signal, and adds wireless communications and a GUI. The stimulator was implemented using Arduino and the GUI was designed in Python.
+This repository contains the code developed for my Honours thesis at The University of Sydney. The code is inherited from Dr. Monzurul Alam's OpenIStim repository. I have added wireless communications and a GUI.
 
 ## Thesis - Remotely-Controlled Spinal Cord Stimulation via Message Query Telemetry Transport
 
@@ -15,4 +15,4 @@ Spinal cord injury is a highly debilitating condition that affects millions arou
 
 ## Links
 
-OpenIStim Original Code: https://github.com/MonzurulAlam/OpenIstim
+Dr. Monzurul Alam's original code: https://github.com/MonzurulAlam/OpenIstim
